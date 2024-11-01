@@ -1,6 +1,6 @@
 {
   "name": "ang-jsoneditor",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "private": false,
   "repository": {
     "type": "git",
@@ -34,7 +34,7 @@
     "@angular/platform-browser": "17.0.2",
     "@angular/platform-browser-dynamic": "17.0.2",
     "@angular/router": "17.0.2",
-    "jsoneditor": "9.10.2",
+    "jsoneditor": "*",
     "ng-packagr": "^18.2.1",
     "rxjs": "*",
     "tslib": "^2.3.0",

@@ -128,6 +128,7 @@ export class JsonEditorOptions {
   public theme: Number;
   public language: String;
   public languages: Object;
+  public limitDragging: boolean;
 
   /**
    * Adds main menu bar - Contains format, sort, transform, search etc. functionality. True

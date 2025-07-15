@@ -35,11 +35,11 @@
     "@angular/platform-browser-dynamic": "^20.1.0",
     "@angular/router": "^20.1.0",
     "jsoneditor": "*",
-    "ng-packagr": "^18.2.1",
+    "ng-packagr": "^20.1.0",
     "rxjs": "*",
     "tslib": "^2.3.0",
-    "webpack": "^5.88.2",
-    "zone.js": "~0.14.2"
+    "webpack": "^5.100.1",
+    "zone.js": "~0.15.1"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^20.1.0",
